@@ -23,3 +23,23 @@ I want to click on a title to see the full Diary Entry
 | give a title | |
 | see a list | |
 | click on a title | |
+
+|Class name - NewEntry |
+|------------------------|
+| responsibility | collaborators |
+| ---------------| ------------- |
+| new diary entry | |
+| have a title | |
+
+|Class name - Diary |
+|------------------------|
+| responsibility | collaborators |
+| ---------------| ------------- |
+| see all diary entry titles | |
+| click on a title | |
+
+| Diary Entries |
+| --- |
+| id | title | content |
+| --- | --- | --- |
+| 1 | first entry | welcome to my diary | 
