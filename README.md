@@ -18,8 +18,8 @@ So that I can read my previous entries
 I want to click on a title to see the full Diary Entry
 ```
 | Actions | Nouns |
-____________________
+|---------|-------|
 | add new | diary entry |
 | give a title | |
 | see a list | |
-| click on a title | | 
+| click on a title | |
